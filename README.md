@@ -1,2 +1,2 @@
-# Shoes brand classification tensorflow python flask
+# Trash classification tensorflow python flask
  
